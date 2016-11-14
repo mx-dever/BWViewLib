@@ -1,6 +1,0 @@
-framework module BWViewLib {
-  umbrella header "BWViewLib-umbrella.h"
-
-  export *
-  module * { export * }
-}
