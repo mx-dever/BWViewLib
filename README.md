@@ -1,2 +1,0 @@
-# BWViewLib
-test cocoapods
